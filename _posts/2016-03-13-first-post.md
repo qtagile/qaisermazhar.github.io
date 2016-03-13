@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Hello World
-subtitle: Excerpt from Soulshaping by Jeff Brown
-published: true
-date: ""
+subtitle: My first post
 ---
 
 Hi there. 
