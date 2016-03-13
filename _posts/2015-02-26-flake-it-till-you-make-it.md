@@ -1,13 +1,17 @@
 ---
 layout: post
-title: Flake it till you make it
+title: Hello World
 subtitle: Excerpt from Soulshaping by Jeff Brown
+published: true
+date: ""
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?  
+Hi there. 
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.  
+My name is Qaiser and I'm a Scrum Master. Saying that feels weird to me because I wasn't always one, I used to be a technical lead. That also feels weird as technically I'm still a tech lead until Tuesday 15th March 2016. 
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.  
+I'm going to use my github pages account to host a blog that will chronicle the journey of me moving from a development role to one with less coding. I've purposely put it like that because as a tech lead without a scrum master in the team you end up doing a lot of the scrum master stuff anyway.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+I'll also use this blog to keep track of the interesting code I find or write. The code I write is rarely interesting, I like to keep things as simple and robust as possible however, I'll be writing most of [Swoop's](http://www.swooprecruit.com) code and I've mostly worked on the back-end. The front-end work should be "interesting" for me to write. I'll share how I get on.
+
+Q
